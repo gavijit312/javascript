@@ -5,3 +5,13 @@ let age = 23
 let relationship = false
 
 console.log(typeof age);
+
+/*
+number
+string
+boolean
+undefined
+null
+symbol
+bigint
+*/
